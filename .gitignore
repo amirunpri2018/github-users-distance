@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+requirements.txt
+github_oauth.py
+.DS_Store
