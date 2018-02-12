@@ -6,4 +6,4 @@
 
 ## Github users connections
 
-![alt text](https://github.com/tamarakatic/github-users-distance/blob/master/github_graph.png)
+![alt text](https://github.com/tamarakatic/github-users-distance/blob/master/additional/github_graph.png)
